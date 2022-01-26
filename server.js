@@ -13,6 +13,7 @@ const rules = auth.rewriter({
   "/mylist*": "/600/mylist$1",
   "/comments*": "/660/comments$1",
   "/animes*": "/664/animes$1",
+  "/avatars*": "/444/avatars",
 });
 
 app.use(cors());

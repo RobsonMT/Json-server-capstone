@@ -414,7 +414,7 @@
       "status": "Em exibição",
       "launch_date": "2021",
       "studio": "Netflix",
-      "synopsis": ""
+      "synopsis": "O legado da família Joestar continua com Jolyne enquanto ela e seus companheiros assumem novos usuários de Stand atrás das grades da Green Dolphin Street Prison."
     },
     {
       "id": 33,
@@ -731,5 +731,11 @@
   ],
   "users": [],
   "mylist": [],
-  "comments": []
+  "comments": [],
+  "avatars": [
+    "https://icon-library.com/images/anime-icon/anime-icon-9.jpg",
+    "http://pm1.narvii.com/6861/44017694789ca7409a0a9a30a8c0be4a7e2bd9f8r1-800-713v2_00.jpg",
+    "https://icon-library.com/images/cool-anime-icon/cool-anime-icon-9.jpg",
+    "https://wallpapercave.com/uwp/uwp1426727.jpeg"
+  ]
 }
