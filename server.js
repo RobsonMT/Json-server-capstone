@@ -11,7 +11,7 @@ app.db = router.db;
 const rules = auth.rewriter({
   "/users*": "/600/users$1",
   "/mylist*": "/600/mylist$1",
-  "/comments*": "/660/comments$1",
+  "/comments*": "/664/comments$1",
   "/animes*": "/664/animes$1",
   "/avatars*": "/444/avatars",
 });
