@@ -3,7 +3,12 @@
     {
       "id": 1,
       "title": "Naruto: Shippuuden",
-      "category": ["Ação", "Angústia", "Comédia", "Artes marciais"],
+      "category": [
+        "Ação",
+        "Angústia",
+        "Comédia",
+        "Artes marciais"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/1555/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/1555/large.jpg",
@@ -16,7 +21,12 @@
     {
       "id": 2,
       "title": "One Piece",
-      "category": ["Ação", "Crime", "Comédia", "Pirata"],
+      "category": [
+        "Ação",
+        "Crime",
+        "Comédia",
+        "Pirata"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/12/cover_image/21ecb556255bd46b95aea4779d19789f.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/12/large.jpg",
@@ -29,7 +39,12 @@
     {
       "id": 3,
       "title": "Demon Slayer",
-      "category": ["Ação", "Aventura", "Demônio", "Fantasia"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Demônio",
+        "Fantasia"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/41370/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/41370/large.jpg",
@@ -42,7 +57,12 @@
     {
       "id": 4,
       "title": "Boku no Hero Academia",
-      "category": ["Ação", "Comédia", "Shounen", "Super-hérois "],
+      "category": [
+        "Ação",
+        "Comédia",
+        "Shounen",
+        "Super-hérois "
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/11469/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/11469/large.jpg",
@@ -55,7 +75,12 @@
     {
       "id": 5,
       "title": "Noragami",
-      "category": ["Ação", "Aventura", "Comédia", "Super Poderes"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Super Poderes"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/7881/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/7881/large.jpg",
@@ -68,7 +93,12 @@
     {
       "id": 6,
       "title": "Avatar: The Last Airbender",
-      "category": ["Ação", "Comédia", "Aventura", "Artes marciais"],
+      "category": [
+        "Ação",
+        "Comédia",
+        "Aventura",
+        "Artes marciais"
+      ],
       "rate": [],
       "banner_url": "image",
       "image_url": "https://media.kitsu.io/manga/poster_images/39307/large.jpg",
@@ -81,7 +111,12 @@
     {
       "id": 7,
       "title": "Hunter x Hunter",
-      "category": ["Ação", "Aventura", "Drama", "Shounen"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Drama",
+        "Shounen"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/6448/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/6448/large.jpg",
@@ -94,7 +129,12 @@
     {
       "id": 8,
       "title": "One Punch Man",
-      "category": ["Ação", "Aventura", "Comédia", "Ficção científica"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Ficção científica"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/10740/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/10740/large.jpg",
@@ -107,7 +147,10 @@
     {
       "id": 9,
       "title": "Rascal Does Not Dream of Bunny Girl Senpai",
-      "category": ["Comédia", "Romance"],
+      "category": [
+        "Comédia",
+        "Romance"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/41056/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/41056/large.jpg",
@@ -120,7 +163,11 @@
     {
       "id": 10,
       "title": "Great Teacher Onizuka",
-      "category": ["Comédia", "Vida escolar", "Amadurecimento"],
+      "category": [
+        "Comédia",
+        "Vida escolar",
+        "Amadurecimento"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/220/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/220/large.jpg",
@@ -133,7 +180,11 @@
     {
       "id": 11,
       "title": "Ore Monogatari!!",
-      "category": ["Comédia", "Shoujo", "Romance"],
+      "category": [
+        "Comédia",
+        "Shoujo",
+        "Romance"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/10016/original.png",
       "image_url": "https://media.kitsu.io/anime/poster_images/10016/large.jpg",
@@ -146,7 +197,12 @@
     {
       "id": 12,
       "title": "Princess Mononoke",
-      "category": ["Ação", "Aventura", "Passado", "Samurai"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Passado",
+        "Samurai"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/142/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/142/large.jpg",
@@ -159,7 +215,12 @@
     {
       "id": 13,
       "title": "Dragon Ball",
-      "category": ["Ação", "Aventura", "Shounen", "Comédia"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Shounen",
+        "Comédia"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/199/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/199/large.jpg",
@@ -172,7 +233,12 @@
     {
       "id": 14,
       "title": "Attack on Titan",
-      "category": ["Ação", "Drama", "Violência", "Drama"],
+      "category": [
+        "Ação",
+        "Drama",
+        "Violência",
+        "Drama"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/7442/original.png",
       "image_url": "https://media.kitsu.io/anime/poster_images/7442/large.jpg",
@@ -185,7 +251,12 @@
     {
       "id": 15,
       "title": "Kuroko no Basket",
-      "category": ["Comédia", "Esportes", "Amizade", "Shounen"],
+      "category": [
+        "Comédia",
+        "Esportes",
+        "Amizade",
+        "Shounen"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/6595/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/6595/large.jpg",
@@ -198,7 +269,12 @@
     {
       "id": 16,
       "title": "Soul Eater",
-      "category": ["Ação", "Aventura", "Comédia", "Shounen"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Shounen"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/3128/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/3128/large.jpg",
@@ -211,7 +287,12 @@
     {
       "id": 17,
       "title": "Code Geass: Lelouch of the Rebellion R2",
-      "category": ["Ação", "Drama", "Futuro", "Guerra"],
+      "category": [
+        "Ação",
+        "Drama",
+        "Futuro",
+        "Guerra"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/2634/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/2634/large.jpg",
@@ -224,7 +305,10 @@
     {
       "id": 18,
       "title": "Yagate Kimi ni Naru",
-      "category": ["Romance", "Shoujo Ai"],
+      "category": [
+        "Romance",
+        "Shoujo Ai"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/41240/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/41240/large.jpg",
@@ -237,7 +321,12 @@
     {
       "id": 19,
       "title": "Mairimashita! Iruma-kun",
-      "category": ["Shounen", "Comédia", "Demônio", "Fantasia"],
+      "category": [
+        "Shounen",
+        "Comédia",
+        "Demônio",
+        "Fantasia"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/42310/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/42310/large.jpg",
@@ -250,7 +339,13 @@
     {
       "id": 20,
       "title": "Black Clover",
-      "category": ["Ação", "Comédia", "Shounen", "Fantasia", "Mágica"],
+      "category": [
+        "Ação",
+        "Comédia",
+        "Shounen",
+        "Fantasia",
+        "Mágica"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/13209/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/13209/large.jpg",
@@ -263,7 +358,13 @@
     {
       "id": 21,
       "title": "Jujutsu Kaisen",
-      "category": ["Ação", "Demônio", "Shounen", "Angústia", "Violência"],
+      "category": [
+        "Ação",
+        "Demônio",
+        "Shounen",
+        "Angústia",
+        "Violência"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/42765/original.jpeg",
       "image_url": "https://media.kitsu.io/anime/poster_images/42765/large.jpg",
@@ -276,7 +377,11 @@
     {
       "id": 22,
       "title": "Koi to Uso",
-      "category": ["Drama", "Romance", "Vida escolar"],
+      "category": [
+        "Drama",
+        "Romance",
+        "Vida escolar"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/13257/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/13257/large.jpg",
@@ -289,7 +394,12 @@
     {
       "id": 23,
       "title": "Kumo desu ga, Nani ka?",
-      "category": ["Aventura", "Comédia", "Fantasia", "isekai"],
+      "category": [
+        "Aventura",
+        "Comédia",
+        "Fantasia",
+        "isekai"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/manga/cover_images/37173/original.jpg",
       "image_url": "https://media.kitsu.io/manga/poster_images/37173/large.jpg",
@@ -302,7 +412,12 @@
     {
       "id": 24,
       "title": "Burn the Witch",
-      "category": ["Ação", "Fantasia", "Magia", "Shounen"],
+      "category": [
+        "Ação",
+        "Fantasia",
+        "Magia",
+        "Shounen"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/43146/original.png",
       "image_url": "https://media.kitsu.io/anime/poster_images/43146/large.jpg",
@@ -315,7 +430,12 @@
     {
       "id": 25,
       "title": "Bungou Stray Dogs",
-      "category": ["Ação", "Comédia", "Crime", "Mistério"],
+      "category": [
+        "Ação",
+        "Comédia",
+        "Crime",
+        "Mistério"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/11339/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/11339/large.jpg",
@@ -328,7 +448,12 @@
     {
       "id": 26,
       "title": "Yakusoku no Neverland",
-      "category": ["Horror", "Mistério", "Shounen", "Ação"],
+      "category": [
+        "Horror",
+        "Mistério",
+        "Shounen",
+        "Ação"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/41312/original.png",
       "image_url": "https://media.kitsu.io/anime/poster_images/41312/large.jpg",
@@ -341,7 +466,12 @@
     {
       "id": 27,
       "title": "Tokyo Ghoul",
-      "category": ["Ação", "Horror", "Violência", "Mistério"],
+      "category": [
+        "Ação",
+        "Horror",
+        "Violência",
+        "Mistério"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/8271/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/8271/large.jpg",
@@ -354,7 +484,12 @@
     {
       "id": 28,
       "title": "Bungo Stray Dogs",
-      "category": ["Ação", "Comédia", "Crime", "Mistério"],
+      "category": [
+        "Ação",
+        "Comédia",
+        "Crime",
+        "Mistério"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/11339/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/11339/large.jpg",
@@ -367,7 +502,10 @@
     {
       "id": 29,
       "title": "Kiznaiver",
-      "category": ["Ficção científica", "Romance"],
+      "category": [
+        "Ficção científica",
+        "Romance"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/11437/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/11437/large.jpg",
@@ -380,7 +518,12 @@
     {
       "id": 30,
       "title": "No Game No Life",
-      "category": ["Aventura", "Comédia", "isekai", "Fantasia"],
+      "category": [
+        "Aventura",
+        "Comédia",
+        "isekai",
+        "Fantasia"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/7880/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/7880/large.jpg",
@@ -393,7 +536,12 @@
     {
       "id": 31,
       "title": "Ao no Exorcist",
-      "category": ["Ação", "Aventura", "Comédia", "Drama"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Drama"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/5940/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/5940/large.jpg",
@@ -406,7 +554,11 @@
     {
       "id": 32,
       "title": "JoJo's Bizarre Adventure: Stone Ocean",
-      "category": ["Ação", "Aventura", "Shounen"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Shounen"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/44294/original.png",
       "image_url": "https://media.kitsu.io/anime/poster_images/44294/large.jpg",
@@ -419,7 +571,12 @@
     {
       "id": 33,
       "title": "The Rising of the Shield Hero",
-      "category": ["Ação", "Aventura", "Seinen", "Isekai"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Seinen",
+        "Isekai"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/13593/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/13593/large.jpg",
@@ -432,7 +589,12 @@
     {
       "id": 34,
       "title": "The Devil is a Part-Timer!",
-      "category": ["Comédia", "Fantasia", "Romance", "Isekai"],
+      "category": [
+        "Comédia",
+        "Fantasia",
+        "Romance",
+        "Isekai"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/7314/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/7314/large.jpg",
@@ -445,7 +607,12 @@
     {
       "id": 35,
       "title": "Neon Genesis Evangelion",
-      "category": ["Mecha", "Ação", "Violência", "Ficção"],
+      "category": [
+        "Mecha",
+        "Ação",
+        "Violência",
+        "Ficção"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/21/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/21/large.jpg",
@@ -458,7 +625,12 @@
     {
       "id": 36,
       "title": "Akame ga Kill!",
-      "category": ["Aventura", "Ação", "Violência", "Drama"],
+      "category": [
+        "Aventura",
+        "Ação",
+        "Violência",
+        "Drama"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/8270/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/8270/large.jpg",
@@ -471,7 +643,12 @@
     {
       "id": 37,
       "title": "Fairy Tail!",
-      "category": ["Magia", "Ação", "Aventura", "Ecchi"],
+      "category": [
+        "Magia",
+        "Ação",
+        "Aventura",
+        "Ecchi"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/4676/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/4676/large.jpg",
@@ -484,7 +661,12 @@
     {
       "id": 38,
       "title": "Dorohedoro",
-      "category": ["Magia", "Ação", "Aventura", "Seinei"],
+      "category": [
+        "Magia",
+        "Ação",
+        "Aventura",
+        "Seinei"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/42040/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/42040/large.jpg",
@@ -497,7 +679,11 @@
     {
       "id": 39,
       "title": "Toradora!",
-      "category": ["Comédia", "Ação", "Romance"],
+      "category": [
+        "Comédia",
+        "Ação",
+        "Romance"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/3532/original.png",
       "image_url": "https://media.kitsu.io/anime/poster_images/3532/large.jpg",
@@ -510,7 +696,11 @@
     {
       "id": 40,
       "title": "Durarara!!",
-      "category": ["Crime", "Drama", "Ação"],
+      "category": [
+        "Crime",
+        "Drama",
+        "Ação"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/4696/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/4696/large.jpg",
@@ -523,7 +713,12 @@
     {
       "id": 41,
       "title": "IS: Infinite Stratos",
-      "category": ["Mecha", "Romance", "Comédia", "Ação"],
+      "category": [
+        "Mecha",
+        "Romance",
+        "Comédia",
+        "Ação"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/5583/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/5583/large.jpg",
@@ -536,7 +731,11 @@
     {
       "id": 42,
       "title": "Teasing Master Takagi-san",
-      "category": ["Shounen", "Romance", "Comédia"],
+      "category": [
+        "Shounen",
+        "Romance",
+        "Comédia"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/13635/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/13635/large.jpg",
@@ -549,7 +748,11 @@
     {
       "id": 43,
       "title": "A Silent Voice",
-      "category": ["Amizade", "Romance", "Drama"],
+      "category": [
+        "Amizade",
+        "Romance",
+        "Drama"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/10028/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/10028/large.jpg",
@@ -562,7 +765,11 @@
     {
       "id": 44,
       "title": "Saiki Kusuo no Psi-nan",
-      "category": ["Comédia", "Humor", "Vida Escolar"],
+      "category": [
+        "Comédia",
+        "Humor",
+        "Vida Escolar"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/12127/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/12127/large.jpg",
@@ -575,7 +782,12 @@
     {
       "id": 45,
       "title": "Food Wars",
-      "category": ["Comédia", "Shounen", "Culinaria", "Ecchi"],
+      "category": [
+        "Comédia",
+        "Shounen",
+        "Culinaria",
+        "Ecchi"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/9967/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/9967/large.jpg",
@@ -588,7 +800,11 @@
     {
       "id": 46,
       "title": "Berserk",
-      "category": ["Aventura", "Ação", "Romance"],
+      "category": [
+        "Aventura",
+        "Ação",
+        "Romance"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/11655/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/11655/large.jpg",
@@ -601,7 +817,11 @@
     {
       "id": 47,
       "title": "Gangsta",
-      "category": ["Crime", "Ação", "Violência"],
+      "category": [
+        "Crime",
+        "Ação",
+        "Violência"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/8576/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/8576/large.jpg",
@@ -614,7 +834,12 @@
     {
       "id": 48,
       "title": "Pokemon",
-      "category": ["Aventura", "Ação", "Comédia", "Fantasia"],
+      "category": [
+        "Aventura",
+        "Ação",
+        "Comédia",
+        "Fantasia"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/486/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/486/large.jpg",
@@ -627,7 +852,12 @@
     {
       "id": 49,
       "title": "Tokyo Revengers",
-      "category": ["Crime", "Ação", "Shounen", "Drama"],
+      "category": [
+        "Crime",
+        "Ação",
+        "Shounen",
+        "Drama"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/43321/original.png",
       "image_url": "https://media.kitsu.io/anime/poster_images/43321/large.jpg",
@@ -640,7 +870,12 @@
     {
       "id": 50,
       "title": "Assassination Class Room ",
-      "category": ["Ficção", "Ação", "Comédia", "Fantasia"],
+      "category": [
+        "Ficção",
+        "Ação",
+        "Comédia",
+        "Fantasia"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/manga/cover_images/19682/original.jpg",
       "image_url": "https://media.kitsu.io/manga/poster_images/19682/large.jpg",
@@ -653,7 +888,10 @@
     {
       "id": 51,
       "title": "Komi Can't Communicate",
-      "category": ["Shounen", "Comédia"],
+      "category": [
+        "Shounen",
+        "Comédia"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/manga/cover_images/37855/original.png",
       "image_url": "https://media.kitsu.io/manga/poster_images/37855/large.jpg",
@@ -666,7 +904,12 @@
     {
       "id": 52,
       "title": "The Seven Deadly Sins",
-      "category": ["Shounen", "Aventura", "Ecchi", "Ação"],
+      "category": [
+        "Shounen",
+        "Aventura",
+        "Ecchi",
+        "Ação"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/8699/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/8699/large.jpg",
@@ -679,7 +922,11 @@
     {
       "id": 53,
       "title": "JoJo's Bizarre Adventure",
-      "category": ["Ação", "Aventura", "Shounen"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Shounen"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/7158/original.png",
       "image_url": "https://media.kitsu.io/anime/poster_images/7158/large.jpg",
@@ -692,7 +939,11 @@
     {
       "id": 54,
       "title": "JoJo's Bizarre Adventure: Stardust Crusaders",
-      "category": ["Ação", "Aventura", "Shounen"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Shounen"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/8063/original.png",
       "image_url": "https://media.kitsu.io/anime/poster_images/8063/large.jpg",
@@ -705,7 +956,11 @@
     {
       "id": 55,
       "title": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
-      "category": ["Ação", "Aventura", "Shounen"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Shounen"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/11459/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/11459/large.jpg",
@@ -718,18 +973,41 @@
     {
       "id": 56,
       "title": "JoJo's Bizarre Adventure: Golden Wind",
-      "category": ["Ação", "Aventura", "Shounen"],
+      "category": [
+        "Ação",
+        "Aventura",
+        "Shounen"
+      ],
       "rate": [],
       "banner_url": "https://media.kitsu.io/anime/cover_images/41410/original.jpg",
       "image_url": "https://media.kitsu.io/anime/poster_images/41410/large.jpg",
-      "original": "JoJo no Kimyou na Bouken: Ougon no Kaze ",
+      "original": "JoJo no Kimyou na Bouken: Ougon no Kaze",
       "status": "Concluído",
       "launch_date": "2018",
       "studio": " David Production",
       "synopsis": "Nápoles, 2001. Giorno Giovanna é um pequeno vigarista com um grande sonho - tornar-se um 'Gang-Star'. Nenhum ladrão comum, Giorno tem uma conexão com a notável linhagem Joestar e possui um Stand chamado Gold Experience. Seu sonho começa a se tornar realidade quando ele conhece Bruno Buccellati, um mafioso da gangue Passione e um colega usuário de Stand. Percebendo que eles compartilham ideais semelhantes e ambos discordam dos assuntos prejudiciais da gangue, Giorno revela seu objetivo de…"
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "email": "gabriel@mail.com",
+      "password": "$2a$10$Q3kbK3PhZcC2.jzuOCFomOErdL1p3ULDBlHBQxhE6F6xLJFQX7mmq",
+      "name": "Gabriel",
+      "id": 1
+    },
+    {
+      "email": "hudson@mail.com",
+      "password": "$2a$10$K1hI4/sUqeQdxLsdcKnTEugxZMvS7z0OJ/1NXdHWirQOfHkosN8Si",
+      "name": "Hudson",
+      "id": 2
+    },
+    {
+      "email": "robson@mail.com",
+      "password": "$2a$10$TYNhHbRh036FpvsY49h3gurPjCrnBap029g5jz4LGGNYffuREZhbO",
+      "name": "Robson",
+      "id": 3
+    }
+  ],
   "mylist": [],
   "comments": [],
   "avatars": [
